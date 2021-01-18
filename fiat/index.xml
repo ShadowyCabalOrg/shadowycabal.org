@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Shadowy Cabal</title>
-    <link>https://shadowycabal.org/</link>
-    <description>The Shadowy Cabal</description>
+    <title>Fiats on The Shadowy Cabal</title>
+    <link>https://shadowycabal.org/fiat/</link>
+    <description>The Shadowy Cabal (Fiats)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jan 2021 12:14:51 -0800</lastBuildDate>
     
-    <atom:link href="https://shadowycabal.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shadowycabal.org/fiat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
