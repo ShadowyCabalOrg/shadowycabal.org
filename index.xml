@@ -6,10 +6,28 @@
     <description>The Shadowy Cabal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jan 2021 16:01:52 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 19:13:11 -0800</lastBuildDate>
     
     <atom:link href="https://shadowycabal.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chips as National Security</title>
+      <link>https://shadowycabal.org/zeal/chip-fab/</link>
+      <pubDate>Thu, 28 Jan 2021 19:13:11 -0800</pubDate>
+      
+      <guid>https://shadowycabal.org/zeal/chip-fab/</guid>
+      <description>&lt;p&gt;Silicon Valley does not make silicon. Intel, the valley&amp;rsquo;s eponym, led the charge to export semiconductor manufacturing expertise to countries with lower labor standards and costs. Chip fabrication in the United States is limited in cutting-edge foundry tech, volume of production, or both.&lt;/p&gt;
+&lt;p&gt;Taiwan Semiconductor Manufacturing Company (TSMC) made components that are in the device on which you are reading this text. They physically cannot meet demand with enough supply, leading to shutdowns in seemingly non-adjacent industries such as automobile manufacturing.&lt;/p&gt;
+&lt;p&gt;TSMC is spending $20 billion to build their next fabrication plant. The United States wants high-tech manufacturing jobs, while a historical beneficiary of Intel&amp;rsquo;s (and by extension, America&amp;rsquo;s) missteps in the semi-conductor world cannot invest quickly enough. Heavy subsidies to foreign industry in exchange for repatriating technology, the kind that don&amp;rsquo;t benefit labor, are conceivable especially in the current United States political environment. The argument to spend and spur manufacturing is obvious, writes itself, and is not addressed by this author here.&lt;/p&gt;
+&lt;p&gt;Despite the recent proliferation of alternative economic theories, calls for American government spending are typically paired with a pay-for, some method by which the money should be raised, in order to be taken seriously. The next generation of high-tech manufacturing jobs should be created out of the military budget.&lt;/p&gt;
+&lt;p&gt;Continuation of TSMC&amp;rsquo;s ability to manufacture and ship semiconductors to satisfy American supply rests on unstable foundations, and an interruption poses a national security threat for the USA. TSMC&amp;rsquo;s current customers include Apple, Intel, Tesla, Volkswagen, and the US military. What would happen to American industrial capacity and military strength without semiconductors is left as an exercise to the reader.&lt;/p&gt;
+&lt;p&gt;TSMC is in Taiwan; Taiwan either is or isn&amp;rsquo;t part of the People&amp;rsquo;s Republic of China (PRC) depending on who censors your Internet. It seems highly likely that military planning needs to account for non-cooperation with China in whatever the next conflict America bumbles into next. Considering the goal of a non-nuclear Korean peninsula, it&amp;rsquo;s perhaps even likely that the PRC would not be an ally in the next conflict.&lt;/p&gt;
+&lt;p&gt;TSMC is in Taiwan; Taiwan is an island off the coast of mainland China with the energy demands of 25-million people. TSMC, in the process of constructing another fab, consumes 5% of the islands electricity as-is. Taiwan is committed to ending its use of nuclear power, which currently supplies the island with 5% of its energy. The island is going to turn down its energy output by approximately one (1) TSMC&amp;rsquo;s worth.&lt;/p&gt;
+&lt;p&gt;TSMC is in Taiwan, and Samsung is in South Korea; these two fabricators account for the vast majority of semiconductors used by US industry. Both Taiwan and Korea are within range of short-range missiles launched from China.&lt;/p&gt;
+&lt;p&gt;TSMC is in Taiwan; Taiwan is not in the United States.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon for the People: A Proposal for a United States Logistics Service</title>
