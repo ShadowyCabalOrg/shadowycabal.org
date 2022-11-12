@@ -24,26 +24,26 @@
 &lt;li&gt;The Flint water crisis settlement.&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;Remember&lt;/del&gt; Restore the Alamo.&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://explorer.usaid.gov/cd/ISR&#34;&gt;https://explorer.usaid.gov/cd/ISR&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://fas.org/sgp/crs/misc/RL31269.pdf&#34;&gt;https://fas.org/sgp/crs/misc/RL31269.pdf&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.gofundme.com/start/medical-fundraising&#34;&gt;https://www.gofundme.com/start/medical-fundraising&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.mlive.com/news/flint/2020/11/proposed-flint-641m-water-crisis-settlement-includes-30-claim-process-categories.html&#34;&gt;https://www.mlive.com/news/flint/2020/11/proposed-flint-641m-water-crisis-settlement-includes-30-claim-process-categories.html&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.tpr.org/news/2017-03-06/city-and-state-officials-weigh-the-costs-of-restoring-the-alamo&#34;&gt;https://www.tpr.org/news/2017-03-06/city-and-state-officials-weigh-the-costs-of-restoring-the-alamo&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -79,7 +79,7 @@
 &lt;p&gt;Amazon&amp;rsquo;s aggressive vertical and horizontal integration, through its Logistics and Basics arms, creates a marketplace that makes it nearly impossible for mom-and-pop small businesses to break into the $1.35 trillion domestic ecommerce market, making up nearly 7% of GDP in 2017 &lt;a href=&#34;https://www.bea.gov/system/files/2019-04/digital-economy-report-update-april-2019_1.pdf&#34;&gt;according to the Bureau of Economic Analysis&lt;/a&gt;. Worse yet, the &lt;em&gt;Wall Street Journal&lt;/em&gt; purports that Amazon &lt;a href=&#34;https://www.wsj.com/articles/amazon-scooped-up-data-from-its-own-sellers-to-launch-competing-products-11587650015&#34;&gt;abuses its role as a third-party marketplace&lt;/a&gt; to collect data on successful products, only to turn around and use their massive logistics infrastructure to make cheaper alternatives under its Basics brand that it maliciously pushes higher in search results. This anticompetitive behavior also hurts consumer choice, as consumers undoubtedly end up buying Basics products not because of their quality, but because of the massive cost savings Amazon is able to realize due to their existing logistics infrastructure.&lt;/p&gt;
 &lt;h2 id=&#34;inefficiencies-caused-by-duplicated-infrastructure&#34;&gt;Inefficiencies Caused by Duplicated Infrastructure&lt;/h2&gt;
 &lt;p&gt;Despite Amazon&amp;rsquo;s dominance, infrastructure still ends up being duplicated by different ecommerce vendors. This creates inherent inefficiencies as Amazon and other vendors (often through USPS and other private parcel services) all create their own infrastructure to move parcels across the country and deliver them to customers. Upwards of four trucks may make deliveries to a business or household in a single day due to this duplicated infrastructure. According to &lt;a href=&#34;https://www.researchgate.net/profile/Monica_Carvalho4/publication/303972918_Life_Cycle_Analysis_as_a_Decision_Criterion_for_the_Implementation_of_Solar_Photovoltaic_Panels_in_as_Northeast_Brazil_Hospital/links/5c8d0f9e92851c1df9447c84/Life-Cycle-Analysis-as-a-Decision-Criterion-for-the-Implementation-of-Solar-Photovoltaic-Panels-in-as-Northeast-Brazil-Hospital.pdf#page=756&#34;&gt;a paper from the Aristotle University of Thessaloniki&lt;/a&gt; 20% to 30% of the total greenhouse gas emissions of a city come from last mile delivery vehicles.&lt;/p&gt;
-&lt;h2 id=&#34;amazon-logistics-hiring-practices&#34;&gt;Amazon Logistics&#39; Hiring Practices&lt;/h2&gt;
+&lt;h2 id=&#34;amazon-logistics-hiring-practices&#34;&gt;Amazon Logistics&amp;rsquo; Hiring Practices&lt;/h2&gt;
 &lt;p&gt;Amazon, being a profit seeking corporation, aggressivesly seeks to cut costs where possible, often at the expense of their warehouse employees. The company makes use of the dubious loophole of declaring most of their workers &amp;ldquo;contractors&amp;rdquo; in order to avoid providing them the same protections lawfully required for employees. Even for their &amp;ldquo;true&amp;rdquo; employees Amazon has shown consistent anti-employee posture, firing employees for arbitrary reasons and discouraging any kind of organizing attempts to a likely illegal degree.&lt;/p&gt;
 &lt;h1 id=&#34;proposal-a-nationwide-logistics-service-as-a-branch-of-the-usps&#34;&gt;Proposal: A Nationwide Logistics Service as a Branch of the USPS&lt;/h1&gt;
 &lt;p&gt;Policymakers should work to amend &lt;a href=&#34;https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&amp;amp;num=0&amp;amp;edition=prelim&#34;&gt;title 39 § 101&lt;/a&gt;, replacing all instances of &amp;ldquo;postal services&amp;rdquo; with &amp;ldquo;postal and logistics services&amp;rdquo; and creating a chapter 7 &amp;ldquo;LOGISTICS SERVICES&amp;rdquo; with § 701 stating:&lt;/p&gt;
